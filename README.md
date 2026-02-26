@@ -29,3 +29,10 @@ https://unils-my.sharepoint.com/:v:/g/personal/gregoire_mariethoz_unil_ch/IQBqDn
 
 <h3>And are the slides of the workshop:</h3>
 https://unils-my.sharepoint.com/:b:/g/personal/gregoire_mariethoz_unil_ch/IQBA7p4TRbY6Sq2R3gKO69QXAZuAdCmgPBt9zEno-4DMNGY?e=4P27CD
+
+<h3>Contact</h3>
+For more information, please contact:<br>
+Dr Moctar Dembélé (IWMI): moctar.dembele@cgiar.org<br>
+Prof. Grégoire Mariéthoz (UNIL) : gregoire.mariethoz@unil.ch<br>
+Mr. Loic Gerber (UNIL) : loic.gerber.2@unil.ch
+
