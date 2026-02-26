@@ -28,7 +28,7 @@ By the end of the workshop, participants are expected to:
 https://unils-my.sharepoint.com/:v:/g/personal/gregoire_mariethoz_unil_ch/IQBqDniWqwbbQrPEVFAOMKIiAV36JXsohxyOpRzTw8c-xzs?e=gsDr5N
 
 <h3>And are the slides of the workshop:</h3>
-https://unils-my.sharepoint.com/:b:/g/personal/gregoire_mariethoz_unil_ch/IQBA7p4TRbY6Sq2R3gKO69QXAZuAdCmgPBt9zEno-4DMNGY?e=4P27CD
+https://unils-my.sharepoint.com/:b:/g/personal/gregoire_mariethoz_unil_ch/IQB8-xN1CV6sSLZAGZy3d8GPAepIHqNK4fh2imNSElzoSLQ?e=43K9wQ
 
 <h3>Contact</h3>
 For more information, please contact:<br>
